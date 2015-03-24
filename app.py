@@ -14,7 +14,7 @@ import urllib, json
 #get game classes
 from threading import Thread
 from Queue import Queue
-from game import Game, Player, Badguy, Room
+from game import Game
 
 
 #start me up!
